@@ -1,6 +1,6 @@
 # 0x11.C- Printf
 
-This team project was executed by Clinton Etuk and ------, in fufilment of the printf project, and we will be
+This team project was executed by Clinton Etuk and Ebimoboere Justin, in fufilment of the printf project, and we will be
 coding the answers to the following tasks together.
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life;

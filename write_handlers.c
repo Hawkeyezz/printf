@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * Compiled by - Clinton Etuk and Ebimoboere Justin
  * handle_write_char - Print a string
  * @c: char types.
  * @buffer: Buffer array to handle print

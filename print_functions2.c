@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * Compiled by - Clinton Etuk and Ebimoboere Justin
  * print_pointer - Prints the value of a pointer variable
  * @types: List of arguments
  * @buffer: Buffer array to handle print

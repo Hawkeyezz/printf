@@ -3,6 +3,7 @@
 #include "main.h"
 
 /**
+ * Compiled by - Clinton Etuk and Ebimoboere Justin
  * main - Entry point
  *
  * Return: Always 0
